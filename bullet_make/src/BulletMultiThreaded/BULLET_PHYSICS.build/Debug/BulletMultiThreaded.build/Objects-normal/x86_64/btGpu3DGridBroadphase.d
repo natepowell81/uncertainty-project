@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpuDefines.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/LinearMath/btScalar.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/LinearMath/btQuickprof.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/LinearMath/btVector3.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/LinearMath/btMinMax.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/np/Desktop/Bullet/bullet-2.82-r2704/src/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h
